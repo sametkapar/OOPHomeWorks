@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OOPHomeWorks\OOPHomeWorks\bin\Debug\OOPHomeWorks.exe.config
+C:\Users\user\source\repos\OOPHomeWorks\OOPHomeWorks\bin\Debug\OOPHomeWorks.exe
+C:\Users\user\source\repos\OOPHomeWorks\OOPHomeWorks\bin\Debug\OOPHomeWorks.pdb
+C:\Users\user\source\repos\OOPHomeWorks\OOPHomeWorks\obj\Debug\OOPHomeWorks.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOPHomeWorks\OOPHomeWorks\obj\Debug\OOPHomeWorks.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOPHomeWorks\OOPHomeWorks\obj\Debug\OOPHomeWorks.exe
+C:\Users\user\source\repos\OOPHomeWorks\OOPHomeWorks\obj\Debug\OOPHomeWorks.pdb

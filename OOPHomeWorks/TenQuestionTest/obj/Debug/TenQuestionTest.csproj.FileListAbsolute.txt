@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\TenQuestionTest\TenQuestionTest\bin\Debug\TenQuestionTest.exe.config
+C:\Users\user\source\repos\TenQuestionTest\TenQuestionTest\bin\Debug\TenQuestionTest.exe
+C:\Users\user\source\repos\TenQuestionTest\TenQuestionTest\bin\Debug\TenQuestionTest.pdb
+C:\Users\user\source\repos\TenQuestionTest\TenQuestionTest\obj\Debug\TenQuestionTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TenQuestionTest\TenQuestionTest\obj\Debug\TenQuestionTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TenQuestionTest\TenQuestionTest\obj\Debug\TenQuestionTest.exe
+C:\Users\user\source\repos\TenQuestionTest\TenQuestionTest\obj\Debug\TenQuestionTest.pdb
